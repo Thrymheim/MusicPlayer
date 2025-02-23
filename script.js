@@ -3,7 +3,7 @@ const songs = [
         title: "Lithium",
         artist: "Nirvana",
         file: "Lithium.mp3",
-        cover: "LithiumCover.jpg",
+        cover: "lithiumCover.jpg",
         lyrics: `
 [Verse 1]
 I'm so happy, 'cause today I found my friends
